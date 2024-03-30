@@ -1,10 +1,10 @@
 # Web Development Project 5 - *Name of App Here*
 
-Submitted by: **Your Name Here**
+Submitted by: Zakaria Chowdhury
 
-This web app: **insert description**
+This web app: Takes information from a Book API
 
-Time spent: **X** hours spent in total
+Time spent: 4 hours spent in total
 
 ## Required Features
 
@@ -31,7 +31,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/ghMGMi6.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[![](https://imgur.com/ghMGMi6.png)](https://imgur.com/ghMGMi6.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
